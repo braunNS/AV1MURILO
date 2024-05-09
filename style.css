@@ -55,6 +55,7 @@
     display: grid;
     grid-template-columns: 25% 25% 25% 25%;
     background-image: linear-gradient(#b1072c,#000000);
+    color: white
 }
 .rodape{
     background-color: #b1072c;
